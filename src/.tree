@@ -1,0 +1,67 @@
+.
+├── ./Acme
+│   └── ./Acme/DemoBundle
+│       ├── ./Acme/DemoBundle/AcmeDemoBundle.php
+│       ├── ./Acme/DemoBundle/Controller
+│       │   ├── ./Acme/DemoBundle/Controller/DemoController.php
+│       │   ├── ./Acme/DemoBundle/Controller/SecuredController.php
+│       │   └── ./Acme/DemoBundle/Controller/WelcomeController.php
+│       ├── ./Acme/DemoBundle/ControllerListener.php
+│       ├── ./Acme/DemoBundle/DependencyInjection
+│       │   └── ./Acme/DemoBundle/DependencyInjection/AcmeDemoExtension.php
+│       ├── ./Acme/DemoBundle/Form
+│       │   └── ./Acme/DemoBundle/Form/ContactType.php
+│       ├── ./Acme/DemoBundle/Resources
+│       │   ├── ./Acme/DemoBundle/Resources/config
+│       │   │   └── ./Acme/DemoBundle/Resources/config/services.xml
+│       │   ├── ./Acme/DemoBundle/Resources/public
+│       │   │   ├── ./Acme/DemoBundle/Resources/public/css
+│       │   │   │   └── ./Acme/DemoBundle/Resources/public/css/demo.css
+│       │   │   └── ./Acme/DemoBundle/Resources/public/images
+│       │   │       ├── ./Acme/DemoBundle/Resources/public/images/blue-arrow.png
+│       │   │       ├── ./Acme/DemoBundle/Resources/public/images/field-background.gif
+│       │   │       ├── ./Acme/DemoBundle/Resources/public/images/logo.gif
+│       │   │       ├── ./Acme/DemoBundle/Resources/public/images/search.png
+│       │   │       ├── ./Acme/DemoBundle/Resources/public/images/welcome-configure.gif
+│       │   │       ├── ./Acme/DemoBundle/Resources/public/images/welcome-demo.gif
+│       │   │       └── ./Acme/DemoBundle/Resources/public/images/welcome-quick-tour.gif
+│       │   └── ./Acme/DemoBundle/Resources/views
+│       │       ├── ./Acme/DemoBundle/Resources/views/Demo
+│       │       │   ├── ./Acme/DemoBundle/Resources/views/Demo/contact.html.twig
+│       │       │   ├── ./Acme/DemoBundle/Resources/views/Demo/hello.html.twig
+│       │       │   └── ./Acme/DemoBundle/Resources/views/Demo/index.html.twig
+│       │       ├── ./Acme/DemoBundle/Resources/views/layout.html.twig
+│       │       ├── ./Acme/DemoBundle/Resources/views/Secured
+│       │       │   ├── ./Acme/DemoBundle/Resources/views/Secured/helloadmin.html.twig
+│       │       │   ├── ./Acme/DemoBundle/Resources/views/Secured/hello.html.twig
+│       │       │   ├── ./Acme/DemoBundle/Resources/views/Secured/layout.html.twig
+│       │       │   └── ./Acme/DemoBundle/Resources/views/Secured/login.html.twig
+│       │       └── ./Acme/DemoBundle/Resources/views/Welcome
+│       │           └── ./Acme/DemoBundle/Resources/views/Welcome/index.html.twig
+│       ├── ./Acme/DemoBundle/Tests
+│       │   └── ./Acme/DemoBundle/Tests/Controller
+│       │       └── ./Acme/DemoBundle/Tests/Controller/DemoControllerTest.php
+│       └── ./Acme/DemoBundle/Twig
+│           └── ./Acme/DemoBundle/Twig/Extension
+│               └── ./Acme/DemoBundle/Twig/Extension/DemoExtension.php
+└── ./Foo
+    └── ./Foo/BarBundle
+        ├── ./Foo/BarBundle/Controller
+        │   ├── ./Foo/BarBundle/Controller/DefaultController.php
+        │   └── ./Foo/BarBundle/Controller/PostController.php
+        ├── ./Foo/BarBundle/Entity
+        │   └── ./Foo/BarBundle/Entity/Post.php
+        ├── ./Foo/BarBundle/FooBarBundle.php
+        ├── ./Foo/BarBundle/Resources
+        │   ├── ./Foo/BarBundle/Resources/config
+        │   │   ├── ./Foo/BarBundle/Resources/config/doctrine
+        │   │   │   └── ./Foo/BarBundle/Resources/config/doctrine/Foo.BarBundle.Entity.Post.orm.xml
+        │   │   └── ./Foo/BarBundle/Resources/config/routing.yml
+        │   └── ./Foo/BarBundle/Resources/views
+        │       └── ./Foo/BarBundle/Resources/views/Default
+        │           └── ./Foo/BarBundle/Resources/views/Default/index.html.twig
+        └── ./Foo/BarBundle/Tests
+            └── ./Foo/BarBundle/Tests/Controller
+                └── ./Foo/BarBundle/Tests/Controller/DefaultControllerTest.php
+
+29 directories, 35 files

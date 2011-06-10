@@ -1,0 +1,13 @@
+assetic
+symfony
+doctrine
+doctrine-dbal
+doctrine-common
+swiftmailer
+twig
+twig-extensions
+monolog
+metadata
+FrameworkExtraBundle
+SecurityExtraBundle
+WebConfiguratorBundle

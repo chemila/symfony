@@ -1,0 +1,86 @@
+.
+├── ./app_dev.php
+├── ./apple-touch-icon.png
+├── ./app.php
+├── ./bundles
+│   ├── ./bundles/acmedemo
+│   │   ├── ./bundles/acmedemo/css
+│   │   │   └── ./bundles/acmedemo/css/demo.css
+│   │   └── ./bundles/acmedemo/images
+│   │       ├── ./bundles/acmedemo/images/blue-arrow.png
+│   │       ├── ./bundles/acmedemo/images/field-background.gif
+│   │       ├── ./bundles/acmedemo/images/logo.gif
+│   │       ├── ./bundles/acmedemo/images/search.png
+│   │       ├── ./bundles/acmedemo/images/welcome-configure.gif
+│   │       ├── ./bundles/acmedemo/images/welcome-demo.gif
+│   │       └── ./bundles/acmedemo/images/welcome-quick-tour.gif
+│   ├── ./bundles/framework
+│   │   ├── ./bundles/framework/css
+│   │   │   ├── ./bundles/framework/css/exception.css
+│   │   │   └── ./bundles/framework/css/exception_layout.css
+│   │   └── ./bundles/framework/images
+│   │       ├── ./bundles/framework/images/blue_picto_less.gif
+│   │       ├── ./bundles/framework/images/blue_picto_more.gif
+│   │       ├── ./bundles/framework/images/border_l.png
+│   │       ├── ./bundles/framework/images/border_r.png
+│   │       ├── ./bundles/framework/images/btn_bg.png
+│   │       ├── ./bundles/framework/images/close_quote.gif
+│   │       ├── ./bundles/framework/images/exception_detected.gif
+│   │       ├── ./bundles/framework/images/grey_magnifier.png
+│   │       ├── ./bundles/framework/images/icon_log.png
+│   │       ├── ./bundles/framework/images/input_bg.gif
+│   │       ├── ./bundles/framework/images/logo_symfony.gif
+│   │       └── ./bundles/framework/images/open_quote.gif
+│   ├── ./bundles/symfonywebconfigurator
+│   │   ├── ./bundles/symfonywebconfigurator/css
+│   │   │   ├── ./bundles/symfonywebconfigurator/css/configure.css
+│   │   │   └── ./bundles/symfonywebconfigurator/css/install.css
+│   │   └── ./bundles/symfonywebconfigurator/images
+│   │       ├── ./bundles/symfonywebconfigurator/images/background-textfield.gif
+│   │       ├── ./bundles/symfonywebconfigurator/images/blue-arrow.png
+│   │       ├── ./bundles/symfonywebconfigurator/images/favicon.ico
+│   │       ├── ./bundles/symfonywebconfigurator/images/logo-big.gif
+│   │       ├── ./bundles/symfonywebconfigurator/images/logo-small.gif
+│   │       └── ./bundles/symfonywebconfigurator/images/notification.gif
+│   └── ./bundles/webprofiler
+│       ├── ./bundles/webprofiler/css
+│       │   ├── ./bundles/webprofiler/css/profiler.css
+│       │   └── ./bundles/webprofiler/css/toolbar.css
+│       ├── ./bundles/webprofiler/favicon.ico
+│       └── ./bundles/webprofiler/images
+│           ├── ./bundles/webprofiler/images/close.png
+│           ├── ./bundles/webprofiler/images/config.png
+│           ├── ./bundles/webprofiler/images/db.png
+│           ├── ./bundles/webprofiler/images/events.png
+│           ├── ./bundles/webprofiler/images/exception.png
+│           ├── ./bundles/webprofiler/images/import.png
+│           ├── ./bundles/webprofiler/images/logger.png
+│           ├── ./bundles/webprofiler/images/mail.png
+│           ├── ./bundles/webprofiler/images/memory.png
+│           ├── ./bundles/webprofiler/images/profiler
+│           │   ├── ./bundles/webprofiler/images/profiler/bg_submenu.gif
+│           │   ├── ./bundles/webprofiler/images/profiler/border_l.png
+│           │   ├── ./bundles/webprofiler/images/profiler/border_r.png
+│           │   ├── ./bundles/webprofiler/images/profiler/btn_bg.png
+│           │   ├── ./bundles/webprofiler/images/profiler/config.png
+│           │   ├── ./bundles/webprofiler/images/profiler/db.png
+│           │   ├── ./bundles/webprofiler/images/profiler/events.png
+│           │   ├── ./bundles/webprofiler/images/profiler/exception.png
+│           │   ├── ./bundles/webprofiler/images/profiler/grey_magnifier.png
+│           │   ├── ./bundles/webprofiler/images/profiler/input_bg.gif
+│           │   ├── ./bundles/webprofiler/images/profiler/logger.png
+│           │   ├── ./bundles/webprofiler/images/profiler/logo_symfony_profiler.gif
+│           │   ├── ./bundles/webprofiler/images/profiler/mail.png
+│           │   ├── ./bundles/webprofiler/images/profiler/request.png
+│           │   └── ./bundles/webprofiler/images/profiler/security.png
+│           ├── ./bundles/webprofiler/images/request.png
+│           ├── ./bundles/webprofiler/images/search.png
+│           ├── ./bundles/webprofiler/images/security.png
+│           ├── ./bundles/webprofiler/images/spacer.gif
+│           ├── ./bundles/webprofiler/images/symfony.png
+│           └── ./bundles/webprofiler/images/timer.png
+├── ./config.php
+├── ./favicon.ico
+└── ./robots.txt
+
+14 directories, 69 files
